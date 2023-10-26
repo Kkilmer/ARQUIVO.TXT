@@ -1,0 +1,29 @@
+body {
+    color:rgb(209, 79, 55);
+}
+
+#p1{
+    color: black
+}
+
+/* .paragrafo{
+    color:rgb(68, 68, 16)
+}
+
+.corbrown{
+    color:brown
+} */
+
+p {
+    color:rgb(38, 45, 104);
+}
+
+.direita{
+    text-align: right;
+}
+.esquerda{
+    text-align: left;
+}
+.centro{
+    text-align: center;
+}
