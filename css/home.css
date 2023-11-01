@@ -1,0 +1,12 @@
+.divisoria{
+    background-color: tomato;
+    background-image: url(../img/12.jpg);
+}
+
+#div1{
+    background-color: blue;
+}
+
+p{
+    background-color: aliceblue;
+}
