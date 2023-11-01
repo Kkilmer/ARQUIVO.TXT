@@ -1,0 +1,17 @@
+body {
+    color:hsl(0, 82%, 11%);
+}
+
+#p1{
+    color: black;
+}
+
+ol.corbrown{
+    color: brown;
+}
+
+p{color: aqua;}
+
+.direita{text-align: right;}
+.esquerda{text-align: left;}
+.centro{text-align: center;}
